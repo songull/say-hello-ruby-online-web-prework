@@ -1,1 +1,3 @@
-say_hello("kyler")# Build your say_hello method here
+def say_hello(gabriela)
+puts "hello, #{say_hello}."
+end
