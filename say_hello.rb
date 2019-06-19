@@ -3,6 +3,6 @@ def say_hello(name, language="Ruby")
 end
 
 def say_hello()
-
+puts say_hello
 end
 say_hello("ruby programmer")
